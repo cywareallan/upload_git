@@ -5,6 +5,7 @@ app_description = "Git Upload"
 app_email = "ascaras@cywareinc.com"
 app_license = "mit"
 
+fixtures = ['Deactivate Account Reasons','Custom Field','Property Setter']
 # Apps
 # ------------------
 
